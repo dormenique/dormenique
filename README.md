@@ -18,4 +18,4 @@
   <img align="center" alt="Dome-CSS" height="30" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
   
-  ![Snake animation](https://github.com/rafaballerini/dormenique/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dormenique/dormenique/blob/output/github-contribution-grid-snake.svg)
