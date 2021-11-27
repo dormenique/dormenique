@@ -1,10 +1,10 @@
 ### Hi there! My name is Dominique 👋
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate as **Front End Developer**
 - 😄 My pronouns are **she/her**
 - 🏠 I live in **Lisbon/PT**
-- 📧 Talk to me on **dormenique@gmail.com**
+- 📧 Talk to me on **hello@dormenique.com** or **dormenique@gmail.com**
 
   
 <div style="display: inline_block"><br>
