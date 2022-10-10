@@ -1,6 +1,6 @@
 ### Hi there! My name is Dominique 👋
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vanilla Javascript**, **React** and **Typescript**
 - 👯 I’m looking to collaborate as **Front End Developer**
 - 😄 My pronouns are **she/her**
 - 🏠 I live in **Lisbon/PT**
