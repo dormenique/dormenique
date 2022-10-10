@@ -16,6 +16,7 @@
   <img align="center" alt="Dome-React" height="30" width="auto" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Dome-jQuery" height="30" width="auto" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   
+  
 </div><br>
 
 <div>
@@ -24,7 +25,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dormenique&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+ 
 <div style="display: inline_block"><br>
-   <a href = "mailto:dormenique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dormenique" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <p>If you want to talk: </p> <a href = "mailto:dormenique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <br />
+  <p>If you to hire me:</p> <a href="https://www.linkedin.com/in/dormenique" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <br />
+  <p>If you want to see my artistic side:</p><a href="https://www.behance.net/dormenique" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  
 </div>
